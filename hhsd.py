@@ -21,3 +21,4 @@ def ura(a):
   else:
     return c
 print(ura(int(input())))
+print('hfgf')
